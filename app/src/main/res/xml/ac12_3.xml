@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<eventos>
+	<evento>
+		<ano>1914</ano>
+		<titulo>Nascimento de João Santos</titulo>
+		<descricao>Nasce João Santos, 27º presidente do Benfica (1987-1992)</descricao>
+		<imagem>http://portugalferroviario.net/ohnoffris/slbonthisday/fotos/jsantos.jpg</imagem>
+	</evento>
+	<evento>
+		<ano>1961</ano>
+		<titulo>Falecimento de Ribeiro dos Reis</titulo>
+		<descricao>Morre Ribeiro dos Reis, antigo avançado do Benfica entre 1915 e 1925. Foi também treinador do clube em três ocasiões: entre 1926 e 1929, 1931 e 1934, e 1952 e 1953.</descricao>
+		<imagem>http://portugalferroviario.net/ohnoffris/slbonthisday/fotos/jsantos.jpg</imagem>
+	</evento>
+</eventos>
